@@ -11,7 +11,7 @@
 
 
 ## 🎥 Demo  
-🔗 Live: https://majorproject-cz9w.onrender.com/listings
+🔗 Live:https://hotel-booking-project-2.onrender.com/listings
 
 ## 🧩 Features  
 
